@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5422804
 color:
-  saturation: 0.3243352
-  lightness: 0.8278242
+  saturation: 0.4398496
   brandStrength: 0.8219622
-  rhythmicContrast: 0.1979967
+  lightness: 0.2346938
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-typography_spectrum: 0.5422804
+  rhythmicContrast: 0.2121374
+layout_spectrum: 1
 name: curtOphoto

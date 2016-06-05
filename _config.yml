@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.5422804
 color:
-  saturation: 0.4398496
+  saturation: 0.4989259
   brandStrength: 0.8219622
-  lightness: 0.2346938
+  lightness: 0.6396348
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  rhythmicContrast: 0.2121374
+  rhythmicContrast: 0.6611171
 layout_spectrum: 1
 name: curtOphoto
